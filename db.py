@@ -6,7 +6,7 @@ conn_pool = SimpleConnectionPool(
     1, 80, 
     database = "datatex",
     user = "postgres",
-    password = "Girlcode123",
+    password = "Girlcode@123",
     host ="localhost",
     port = "5432",
     
